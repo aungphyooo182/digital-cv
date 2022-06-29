@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+Aung Phyo Oo
+===============
+  
+  *Front-end developer based in Mandalay, Myanmar(Burma)*
+  
+  ## Expreience 
+  ### Front-end developer @ Amdon Group (Nov 2019 - Present)
+- Developed designs to meet specific requirements such as quick-loading sites with particular layouts.
 
-You can use the [editor on GitHub](https://github.com/aungphyooo182/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Designed and updated layouts to meet usability and performance requirements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Produced websites compatible with multiple browsers.
 
-### Markdown
+- Worked in an Agile-driven environment to effectively maintain project timelines and utilize available resources.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Wrote clean HTML and CSS code, integrating design, extensions, and thirdparty apps according to web development plans.
 
-```markdown
-Syntax highlighted code block
+- Tested site compatibility across multiple browsers and devices, uncovering and debugging issues and addressing inconsistencies.
 
-# Header 1
-## Header 2
-### Header 3
+- Customize UI for existing project like saleor, openedx
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## On The Side
+### Instructor (July 2022 - Present)
+- Teach programming basic to teenagers who are interested in programming
+- Teach computer basic to children
 
-**Bold** and _Italic_ and `Code` text
+## Education
+- **University Of Computer Studies, MandalayUniversity Of Computer Studies, Mandalay**
 
-[Link](url) and ![Image](src)
-```
+*Bachelor's degree specialized in Business Information System (2012 - 2017)*
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- **University of Foreign Languages, MandalayUniversity of Foreign Languages, Mandalay**
 
-### Jekyll Themes
+*Diploma, English Language and Literature (2015 - 2016)*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aungphyooo182/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Skills
+- HTML, CSS, Bootstrap, TailWind, Javascript, Angular, React
