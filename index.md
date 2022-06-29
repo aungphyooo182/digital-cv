@@ -1,10 +1,10 @@
 Aung Phyo Oo
 ===============
   
-  *Front-end developer based in Mandalay, Myanmar(Burma)*
+*Front-end developer based in Mandalay, Myanmar(Burma)*
   
-  ## Expreience 
-  ### Front-end developer @ Amdon Group (Nov 2019 - Present)
+## Expreience 
+### Front-end developer @ Amdon Group (Nov 2019 - Present)
 - Developed designs to meet specific requirements such as quick-loading sites with particular layouts.
 
 - Designed and updated layouts to meet usability and performance requirements.
